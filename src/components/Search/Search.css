@@ -1,0 +1,24 @@
+.search {
+    margin-top: 120px;
+    position: absolute;
+    text-align: center;
+}
+
+.search input[type='text'],
+.search button {
+    padding: 24px 32px;
+    border-width: 1px;
+    border-color: #000;
+    border-radius: 24px;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.search button {
+    margin-left: 32px;
+    cursor: pointer;
+}
+
+.search button:hover {
+    background-color: #cbd7e1;
+}

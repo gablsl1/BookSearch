@@ -1,0 +1,55 @@
+.bookdetails {
+    margin-top: 48px;
+}
+
+button {
+    padding: 24px 32px;
+    margin-left: 64px;
+    border-width: 1px;
+    border-color: #000;
+    border-radius: 24px;
+    font-size: 16px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cbd7e1;
+}
+
+.text-section {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-section img {
+    width: 200px;
+}
+
+.text-section label {
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+}
+
+.text-section p {
+    font-size: 16px;
+    color: white;
+}
+
+.info {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.info-title {
+    color: white;
+    font-size: 16px;
+    font-weight: 800;
+}

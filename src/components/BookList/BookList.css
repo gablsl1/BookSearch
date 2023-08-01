@@ -1,0 +1,19 @@
+.booklist {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    gap: 32px;
+    flex-direction: column;
+    margin-top: 80px;
+}
+
+.booklist img {
+    width: 250px;
+}
+
+.booklist h2 {
+    color: white;
+    text-decoration: none;
+    border: none;
+}
